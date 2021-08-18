@@ -1,8 +1,6 @@
 ### Hi I'm James 👋
 
-A Front End Engineer from Lancaster.
-
-- 🌱 I’m currently learning: JavaScript (always), looking into React, interested in learning more on sustainable development and design. 
+A Front End Engineer from Lancaster. With a passion for HTML, CSS, UX, accessibility, and performance.
 
 <!--
 **jimbateson/jimbateson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
