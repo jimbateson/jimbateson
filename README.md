@@ -1,6 +1,6 @@
 ### Hi I'm James 👋
 
-A Front End Engineer from Lancaster. With a passion for HTML, CSS, UX, accessibility, and performance.
+A Front End Designer from Manchester. With a passion for HTML, CSS, UX, accessibility, and performance.
 
 <!--
 **jimbateson/jimbateson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
